@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 3. Run the Application
 ```bash
-python3 generate_dockerfile.py
+python generate_dockerfile.py
 ```
 ## 🧠 How It Works
 1. You provide the name of a programming language (e.g., java, python, go, etc.).
