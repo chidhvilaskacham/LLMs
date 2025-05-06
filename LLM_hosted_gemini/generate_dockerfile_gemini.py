@@ -14,6 +14,7 @@ Include:
 - Setting working directory
 - Adding source code
 - Running the application
+- Multi stage build
 """
 
 def generate_dockerfile(language):
